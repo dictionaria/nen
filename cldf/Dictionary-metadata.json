@@ -218,6 +218,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Encyclopedic_Info"
+                    },
+                    {
+                        "datatype": "string",
                         "separator": " ; ",
                         "name": "Media_IDs"
                     },
@@ -225,6 +229,10 @@
                         "datatype": "string",
                         "separator": " ; ",
                         "name": "Near_Synonym"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Scientific_Name"
                     },
                     {
                         "datatype": "string",

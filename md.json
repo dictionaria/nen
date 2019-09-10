@@ -13,6 +13,7 @@
         "glottocode": "nenn1238"
     },
     "date_published": "2019",
+    "doi": "10.5281/zenodo.3345805",
     "number": 8,
       "properties": {
          "marker_map": {
@@ -26,7 +27,9 @@
             "ng_en": "cm",
             "syn": "sy",
             "ant": "an",
-            "z0": "sf"
+            "z0": "sf",
+             "z1": "sc",
+             "z2": "ee"
         },
         "entry_sep": "\\lx ",
         "entry_map": {
@@ -40,7 +43,9 @@
             "dual_nondualpair": "Dual_NonDual_Pair"
         },
         "sense_map": {
-            "nearsynonym": "Near_Synonym"
+            "nearsynonym": "Near_Synonym",
+            "sc": "Scientific_Name",
+            "ee": "Encyclopedic_Info"
         },
         "flexref_map": {
             "min pair": "minimalpair",
