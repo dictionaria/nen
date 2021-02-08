@@ -1,0 +1,71 @@
+{
+    "authors": [
+        {
+            "name": "Nicholas Evans",
+            "affiliation": "Australian National University",
+            "email": "nicholas.evans@anu.edu.au",
+            "url": "https://researchers.anu.edu.au/researchers/evans-nrd"
+        }
+    ],
+    "language": {
+        "name": "Nen",
+        "isocode": "nqn",
+        "glottocode": "nenn1238"
+    },
+    "date_published": "2019",
+    "doi": "10.5281/zenodo.3403988",
+    "number": 8,
+    "properties": {
+        "marker_map": {
+            "d_en": "de",
+            "xv_Nen": "xv",
+            "lc_Nen": "lc",
+            "x_en": "xe",
+            "ps_en": "ps",
+            "g_en": "ge",
+            "sd_en": "sd",
+            "ng_en": "cm",
+            "syn": "sy",
+            "ant": "an",
+            "z0": "sf",
+            "z1": "sc",
+            "z2": "ee"
+        },
+        "flexref_map": {
+            "min pair": "minimalpair",
+            "codiath": "codiathetic",
+            "NrSyn": "nearsynonym",
+            "du&lt;&gt;nd": "dual_nondualpair"
+        },
+        "entry_sep": "\\lx ",
+        "entry_map": {
+            "cm": "Grammar_Comment",
+            "lc": "Citation_Form",
+            "et_Nen": "Etymology_Nen",
+            "et_en": "Etymology",
+            "eg_en": "Meaning_Origin_Word",
+            "co_en": "General_Comment",
+            "minimalpair": "Minimal_Pair",
+            "codiathetic": "Codiathetic",
+            "dual_nondualpair": "Dual_NonDual_Pair"
+        },
+        "entry_custom_order": [
+            "Citation_Form",
+            "Etymology",
+            "Etymology_Nen",
+            "Meaning_Origin_Word",
+            "General_Comment",
+            "Grammar_Comment"
+        ],
+        "sense_map": {
+            "nearsynonym": "Near_Synonym",
+            "ee": "Encyclopedic_Info"
+        },
+        "labels": {
+            "et_Nen": "Etymology (Nen)",
+            "dual_nondualpair": "Dual–Non-Dual Pair"
+        },
+        "custom_fields": ["Scientific Name"],
+        "second_tab": []
+    }
+}
