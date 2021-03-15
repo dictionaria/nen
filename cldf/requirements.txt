@@ -3,14 +3,14 @@ cdstarcat==1.3.0
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.3.0
--e git+git@github.com:dictionaria/nen@9ff71280e690b1a0f9924c34950781d0eba3b6e2#egg=cldfbench_nen
+-e git+git@github.com:dictionaria/nen@3b7e0bb714ee917170446c040f5eb6ed377c3343#egg=cldfbench_nen
 cldfcatalog==1.3.0
 clldutils==3.6.0
 colorama==0.4.3
 colorlog==4.7.2
 csvw==1.10.0
 gitdb==4.0.5
-html5lib==1.0.1
+html5lib==1.1
 idna==2.8
 iniconfig==1.1.1
 isodate==0.6.0
@@ -24,7 +24,7 @@ pycdstar==1.0.1
 pycldf==1.18.0
 pyconcepticon==2.7.0
 pycountry==20.7.3
--e git+git@github.com:dictionaria/pydictionaria@a30ad0352fbae0378ae9b8a0c67727947fea9530#egg=pydictionaria
+-e git+git@github.com:dictionaria/pydictionaria@54e76211357b2196d3951807aaadfdd81bdf19b6#egg=pydictionaria
 pyglottolog==3.3.0
 pytest==6.2.2
 requests==2.22.0

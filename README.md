@@ -1,13 +1,13 @@
-# Nen dictionary
+# Nen Dictionary
 
 > by Nicholas Evans
 
 This repository contains the data underlying the published version of the dictionary
-at [Dictionaria](https://dictionaria.clld.org/contributions/nen) as [CLDF](https://cldf.clld.org) 
-[Dictionary](cldf) 
+at [Dictionaria](https://dictionaria.clld.org/contributions/nen) as [CLDF](https://cldf.clld.org)
+[Dictionary](cldf)
 [![CLDF validation](https://github.com/dictionaria/nen/workflows/CLDF-validation/badge.svg)](https://github.com/dictionaria/nen/actions?query=workflow%3ACLDF-validation)
 
-Releases of this repository are archived with and accessible through 
+Releases of this repository are archived with and accessible through
 [ZENODO](https://zenodo.org/communities/dictionaria) and the latest release
 is published on the [Dictionaria website](https://dictionaria.clld.org).
 

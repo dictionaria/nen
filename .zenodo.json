@@ -1,0 +1,29 @@
+{
+    "title": "dictionaria/nen: Nen Dictionary",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Nicholas Evans"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "Evans, Nicholas. 2019. Nen dictionary. Dictionaria 8. 1-5005 (Available online at https://dictionaria.clld.org/contributions/nen)"
+}
