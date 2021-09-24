@@ -19,7 +19,7 @@ Many members of the Nen-speaking community have contributed to the compilation o
 <table>
 <tbody>
 <tr><td>Jimmy Nébni</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>†Dibod Daeba</td><td rowspan="29" style="visibility: hidden;"><p>-</p></td><td rowspan="29" style="visibility: hidden;"><p>-</p></td><td rowspan="29" style="visibility: hidden;"><p>-</p></td><td rowspan="29" style="visibility: hidden;"><p>-</p></td><td rowspan="29" style="visibility: hidden;"><p>-</p></td><td></td></tr>
-<tr><td>Michael Idaba</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>Songa Dibod</td><td rowspan="28" style="vertical-align:top"><a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-B396-9EA3-F41C-0/Nen_Dictionary_Cover_2019.pdf"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1DE6-C60A-256D-0/web.jpg"/></a></td></tr>
+<tr><td>Michael Idaba</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>Songa Dibod</td><td rowspan="28" style="vertical-align:top"><a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-B396-9EA3-F41C-0/Nen_Dictionary_Cover_2019.pdf"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1DE6-C60A-256D-0/web.jpg"/></a></td></tr>
 <tr><td>Grmbo Blba</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>Mängo Wlila</td></tr>
 <tr><td>Goe Dibod</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>Kaeko Mängo</td></tr>
 <tr><td>Nébni Tkak Mkao</td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td><p style="visibility: hidden;">-</p></td><td>Dadayag Sobra</td></tr>
@@ -52,25 +52,25 @@ Many members of the Nen-speaking community have contributed to the compilation o
 
 It additionally reflects the work of the Äkämär Zidbn Ogiabs (Nen Language Committee) whose office-bearer ins 2014-2017 were Goe Dibod (Chairman), Joseph Teräb Blag (Vie Chairman), Daniel Gvae (Secretary)), Yosang Amto (Treasurer), Geroma Rami and Ymta Sobae (Security 2015), Daniel Gbae (Security 2016-2017), Ebram Bamaga and Yaga Wlila (Community Liaison), as well as the clan committees of the Bangu, Erboag, Kiémbtuwirer, Nängblag, Sangara and Seregu groups who helped in the interviewing of a wide range of speakers during 2014-2018, and whose names are listed above.
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-576B-E4B5-9E27-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-576B-E4B5-9E27-0/web.jpg"/>
 
 **Photo 1**: Nen language workers with draft dictionary, July 2017, Bimadbn Community Centre
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-2A22-1B8F-EBC0-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-2A22-1B8F-EBC0-0/web.jpg"/>
 
 **Photo 2**: Nen literacy class, Bimadbn Elementary School, September 2018
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-9580-D7C8-E034-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-9580-D7C8-E034-0/web.jpg"/>
 
 **Photo 3**: Bimadbn Elementary School Teachers Songa Dibod (left) and Bernda Aramang (right) with Nick Evans, September 2018
 
 Further assistance has come from Kipiro Damas (botanical identifications), Chris Healey (bird identifications, as well as an enormous amount of work obtaining bird photos and recordings of bird calls); both Kipiro and Chris participated in two field trips thanks to support from a Volkswagenstiftung DoBeS grant. 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-8113-110C-DC4B-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-8113-110C-DC4B-0/web.jpg"/>
 
 **Photo 4**: Kipiro Damas identifying plants with Gvae Néwir and Jimmy Nébni
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-DDF4-6019-F56B-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-DDF4-6019-F56B-0/web.jpg"/>
 
 **Photo 5**: Chris Healey in a bird hide in bush just south of Bimadbn
 
@@ -86,7 +86,7 @@ The village of Bimadbn itself, with a population of around 350, is highly multil
 
 Literacy in the language is limited to a few individuals – and literacy in general is rather limited, with many people unable to read and write at all, and others primarily limited in their literacy skills to reading well-known passages from the Bible, sending text messages by phone, or reading noticeboards. When I began work on the language in 2008 there was a provisional orthography designed by the SIL linguists Marco and René Boevé, who had primarily been working on Arammba, a distantly related Yam language of the Tonda branch. I was shown a small reader with a few words illustrating each letter or letter combination. Words written with this orthography were also written on blackboards in the Elementary School. Over the next two years this orthography was revised somewhat (see below) and has since stabilised to that used here. Following community request, some portions of the Bible have now been translated into Nen, and at Sunday services readings from these portions of the Nen Bible are carried out. Around ten people have sufficient literacy skills to do this, based on solid rehearsal of the reading passages. A smaller number, such as Jimmy Nébni, Nébni Mkao and Goe Dibod, who have been intimately involved in language work and transcription, have a more confident command of the writing system, including the ability to transcribe accurately using ELAN in Jimmy Nébni’s case. It is hoped that the availability of this dictionary in a form that can be accessed by the Nen diaspora will help promote literacy skills. The link will be announced through Facebook, which is gaining in popularity among Nen speakers.
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-9E20-AD80-125D-0/map.png"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-9E20-AD80-125D-0/map.png"/>
 
 **Map**: Languages of the Yam family.
 
@@ -108,7 +108,7 @@ Every year since 2010 I have produced an annual ‘dictionary harvest’, a prin
 
 An indication of the community’s interest in this dictionary project comes from its enthusiasm in keeping track of the steady growth in the number of entries (and its commitment to help keep this expanding). In 2011 a large tree was cut down from the nearby forest and squared up to form a ‘dictionary pole’, erected in front of my house in the village. Each field trip the number of lexical entries recorded up to the previous year is carved into the side of the pole. Villagers take great pride in drawing this pole to the attention of visitors from other villages. As well as recording the number using Arabic numerals, the number of entries is also recorded using the Nen senary (base six) system (Evans 2009, and see below under specialties of vocabulary). To avoid confusion in how to interpret the digits – for example should 1000 be interpreted as one thousand or as 216 (six cubed), those to be interpreted as base six are written using the Devanagari numerals. For example, the interim number of dictionary entries recorded to 2010 – i.e. 2327, when written as a power of 6, is 2327 = 1 x 1296 (1 x 64 ) + 4 x 216 (4 x 63 ) + 4 x 36 (4 x 62 ) + 2 x 6 + 1. This was written as shown on the dictionary pole.
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-3C1B-0BD7-8DA3-0/dict_pole.png"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-3C1B-0BD7-8DA3-0/dict_pole.png"/>
 
 **Photo 6**: The dictionary pole. Left: Jimmy Nébni with the author marking out the year’s numbers for carving on the pole. Right: close-up of the entry record for 2010, showing the number of entries (2327), expressed in the Nen base-six numeral system using Devanagari numerals.
 
